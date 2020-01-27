@@ -16,6 +16,7 @@
 <details>
   <summary><b>Authentication Team</b></summary>
   <ul>
+    
     <li>Tanner Percival, Lead Developer (https://github.com/Tanner253)</li>
     <li>Andrew Roska, Developer (https://github.com/Roketsu86)</li>
     <li>Ben Taylor, Developer (https://github.com/BenSTay)</li>
